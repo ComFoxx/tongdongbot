@@ -1,0 +1,16 @@
+{
+  "name": "tongdongbot",
+  "version": "0.1.0",
+  "description": "Discord Webhooks + Pronote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ComFoxx <contact@comfoxx.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "date-fns": "^2.11.0",
+    "webhook-discord": "^3.5.1"
+  }
+}

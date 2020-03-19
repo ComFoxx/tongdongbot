@@ -1,0 +1,8 @@
+{
+	"webhookUrl": "https://discordapp.com/api/webhooks/000000000000000000/000000000000000000-0000000000000000000000000000000000000000000000000",
+	"pronoteCalendarUrl": "https://00000000.index-education.net/pronote/ical/Edt.ics?icalsecurise=000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&version=2019.0.2.4&param=00000000",
+	"delay": 60,
+	"name": "Pronote",
+	"avatarUrl": "https://cdn.discordapp.com/attachments/000000000000000000/000000000000000000/avatar.png",
+	"color": "#10795d"
+}
